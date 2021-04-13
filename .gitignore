@@ -3,6 +3,16 @@
 /yii_test
 /yii_test.bat
 
+dist(8)
+dist(8).rar
+
+# sublime project
+*.sublime-project
+*.sublime-workspace
+
+# php_cs
+.php_cs.cache
+
 # phpstorm project files
 .idea
 
@@ -33,5 +43,8 @@ phpunit.phar
 
 # vagrant runtime
 /.vagrant
-/admin/views/finance/report-form.php
-/admin/controllers/IndexController;
+
+*.sh
+*.zip
+
+/admin
