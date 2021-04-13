@@ -1,0 +1,6 @@
+# config dir
+# /config
+upload
+getid3
+/models/base/AdminBase.php
+/models/table/Admin.php
